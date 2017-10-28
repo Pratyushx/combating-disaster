@@ -1,0 +1,34 @@
+{
+  "name": "modules",
+  "version": "1.0.0",
+  "description": "disaster project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "modules",
+    "npm"
+  ],
+  "author": "MRP3.0",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "~4.14.0",
+    "mongoose": "~4.6.1",
+    "passport": "~0.3.2",
+    "passport-facebook": "~2.1.1",
+    "connect-flash": "~0.1.1",
+    "body-parser": "~1.15.2",
+    "cookie-parser": "~1.4.3",
+    "morgan": "~1.7.0",
+    "method-override": "~2.3.6",
+    "passport-facebook-token": "^3.3.0",
+    "express-session": "~1.14.1"
+  },
+  "devDependencies": {
+    "@angular/cli": "^1.2.1",
+    "chai": "^4.0.2",
+    "mocha": "^3.4.2"
+  }
+}
